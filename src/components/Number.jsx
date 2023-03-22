@@ -1,7 +1,7 @@
 
-function Number() {
+function Number({counter}) {
     return (
-        <span className="number">0</span>
+        <span className="number">{counter}</span>
     );
   };
   

@@ -52,7 +52,8 @@
   background-color: #0FC50B;
 }
 .button-return{
-  border: solid #e5e5e54d;
+  background-color: #E5E5E5;
+  border: solid #E5E5E5;
 }
 .button-minus{
   color: #fff;
